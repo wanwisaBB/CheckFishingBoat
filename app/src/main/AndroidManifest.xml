@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="rmutr.boonsathain.wanwisa.checkfishingboat">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:noHistory="true"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".hub_service"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".boat_out"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".boat_in"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".add_boat"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".add_boat_view"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".add_boat_select"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".boat_in_view"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".boat_in_view_select"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".boat_out_view"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".boat_out_view_select"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity android:name=".boat_check"></activity>
+    </application>
+
+</manifest>

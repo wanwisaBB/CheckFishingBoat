@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Check FishingBoat</string>
+
+    <dimen name="icon">120dp</dimen>
+    <dimen name="h1">35sp</dimen>
+    <dimen name="h2">20sp</dimen>
+    <dimen name="h3">15sp</dimen>
+
+    <dimen name="edittext1">120dp</dimen>
+    <dimen name="edittext2">80dp</dimen>
+    <dimen name="edittext3">200dp</dimen>
+    <dimen name="edittext4">310dp</dimen>
+    <dimen name="edittext5">400dp</dimen>
+
+    <string name="title_main">แอพตรวจเรือ</string>
+
+    <string name="hub1">รายงานเรือเข้า</string>
+    <string name="hub2">รายงานเรือออก</string>
+    <string name="hub3">ตรวจสอบ</string>
+    <string name="hub4">เพิ่มข้อมูล</string>
+
+
+    <!--เรือออก-->
+    <string name="boatout1">แจ้งออก</string>
+    <string name="boatout2">ชื่อเรือ</string>
+    <string name="boatout3">ขนาด</string>
+    <string name="boatout4">ตันกรอส</string>
+    <string name="boatout5">ใบอนุญาตใช้เครื่องมือ / อาชญาบัตร</string>
+    <string name="boatout6">ท่าที่คาดว่าจะเข้า</string>
+    <string name="boatout7">ประเภทเครื่องมือ</string>
+    <string name="boatout8">อุปกรณ์ประจำเรือ</string>
+    <string name="boatout9">ระบบติดตามเรือ vms ยี่ห้อ</string>
+    <string name="boatout10">รุ่น</string>
+    <string name="boatout11">หมายเลขเครื่อง</string>
+    <string name="boatout12">วิทยุสื่อสาร ความถี่</string>
+    <string name="boatout13">หมายเลขเครื่อง</string>
+    <string name="boatout14">ชื่อเจ้าของเรือ</string>
+    <string name="boatout15">หมายเลขบัตร</string>
+    <string name="boatout16">ผู้ควบคุมเรือ</string>
+    <string name="boatout17">หมายเลขบัตร</string>
+    <string name="boatout18">รายชื่อคนประจำเรือ</string>
+    <string name="boatout19">บันทึก</string>
+    <string name="boatout20">ส่งรายงาน</string>
+    <string name="boatout21">โทร</string>
+
+    <!--for Add Boat-->
+    <string name="addboat1">เพิ่มข้อมูล</string>
+    <string name="addboat2">ชื่อเรือ</string>
+    <string name="addboat3">ทะเบียนเรือ เลขที่</string>
+    <string name="addboat4">ขนาด</string>
+    <string name="addboat5">ชื่อเจ้าของเรือ</string>
+    <string name="addboat6">เลขประจำตัวเจ้าของเรือ</string>
+    <string name="addboat7">ที่อยู่ เจ้าของเรือ</string>
+    <string name="addboat8">เบอร์โทร เจ้าของเรือ</string>
+    <string name="addboat9">ชื่อไต้ก๋งเรือ</string>
+    <string name="addboat10">เลขประจำตัว ไต้ก๋งเรือ</string>
+    <string name="addboat11">ประกาศณียบัตรผู้ควบคุมเรือ</string>
+    <string name="addboat12">เลขที่</string>
+    <string name="addboat13">ออกให้ ณ</string>
+    <string name="addboat14">วันออกบัตร</string>
+    <string name="addboat15">วันหมดอายุ</string>
+    <string name="addboat16">ประเภทเรือประมง</string>
+    <string name="addboat17">บันทึก</string>
+    <string name="addboat18">แก้ไข</string>
+    <string name="addboat19">ลบ</string>
+    <string name="recordby">ผู้บันทึก</string>
+
+</resources>
